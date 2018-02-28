@@ -10,3 +10,5 @@ Make guesses by striking the key that corresponds with the letter you are trying
 Once you guess each letter in the word, you will win the game!
 
 If you do not guess the word correctly after ten guesses, you will lose the game. The game will restart and you will have a chance to try again.
+
+(https://raw.githubusercontent.com/johnisabella/Constructor-Hangman/master/Game Screenshot.png)
